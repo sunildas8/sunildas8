@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sunil Das</h1>
 <h3 align="center">🧑🏻‍💻 A passionate Front End Developer from Bangladesh 🖥</h3>
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/da:true/resize:fit:680/0*7Q3yvSIv_t0ioJ-Z.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 <p align="left"> <a href="https://www.linkedin.com/in/sunildas8" target="blank"><img src="https://img.shields.io/twitter/follow/sunildas8?logo=twitter&style=for-the-badge" alt="sunildas8" /></a> </p>
 
