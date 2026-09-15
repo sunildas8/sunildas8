@@ -24,7 +24,11 @@
 
 ###
 
-<p data-importer="text" align="left">I'm ... from ....<br><br>- 🔭 I’m working as : Full Stack Developer<br>- 📚 I'm currently learning : Bachelor of Computer Applications<br>- ⚡ In my free time I am play the games on PS5</p>
+<p data-importer="text" align="left">Full-Stack Developer with experience building responsive, scalable, and user-focused web applications using React.js,
+Redux Toolkit, Node.js, Express.js, and MongoDB. Passionate about creating seamless digital experiences through clean
+code and modern development practices. Strong foundation in JavaScript, HTML, CSS, Tailwind CSS, and Shadcn UI.
+Deeply interested in AI-focused web development, with experience integrating intelligent features using LangChain,
+Large Language Models (LLMs), and modern AI technologies to build innovative and impactful solutions.<br><br>- 🔭 I’m working as : Full Stack Developer<br>- 📚 I'm currently learning : Bachelor of Computer Applications<br>- ⚡ In my free time I am play the games on PS5</p>
 
 ###
 
