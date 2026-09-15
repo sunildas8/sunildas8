@@ -25,7 +25,7 @@
 
 ###
 
-<p data-importer="text" align="center">🧑🏻‍💻 A passionate Full Stack Developer from Bangladesh 🖥</p>
+<h2 data-importer="text" align="center">🧑🏻‍💻 A passionate Full Stack Developer from Bangladesh 🖥</h2>
 
 ###
 
