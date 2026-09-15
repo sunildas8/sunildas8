@@ -59,9 +59,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs logo"  />
 </div>
-
-###
-
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
-
-###
